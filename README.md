@@ -1,5 +1,4 @@
-NGINX Helm chart:
----
+
 
 # NGINX Helm Chart
 
