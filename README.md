@@ -1,5 +1,4 @@
-Below is a sample README file for the NGINX Helm chart:
-
+NGINX Helm chart:
 ---
 
 # NGINX Helm Chart
@@ -62,11 +61,3 @@ To uninstall the NGINX deployment, use the following command:
 ```bash
 helm uninstall nginx
 ```
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to adjust and expand this README as needed for your specific project requirements.
