@@ -1,0 +1,4 @@
+apiVersion: v2
+name: nginx
+description: A Helm chart to deploy NGINX server with HTTPS support
+version: 0.1.0
